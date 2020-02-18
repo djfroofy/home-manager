@@ -1223,6 +1223,13 @@ in
           A new module is available: 'services.spotifyd'.
         '';
       }
+
+      {
+        time = "2020-02-16T17:07:44+00:00";
+        message = ''
+          A new module is available: 'programs.readline'.
+        '';
+      }
     ];
   };
 }
